@@ -1,8 +1,8 @@
 {
-  "title": "Blog by John Doe",
+  "title": "Masaki Tanabe official site",
   "url": "https://lumen.alxshelepenok.com",
-  "subtitle": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
-  "copyright": "© All rights reserved.",
+  "subtitle": "jazz pianist",
+  "copyright": "©All rights reserved.",
   "googleAnalyticsId": "UA-73379983-2",
   "disqusShortname": "",
   "postsLimit": 4,
@@ -22,16 +22,16 @@
     }
   ],
   "author": {
-    "name": "John Doe",
+    "name": "Masaki tanabe",
     "photo": "/photo.jpg",
-    "bio": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+    "bio": "jazz pianist",
     "contacts": {
       "rss": "",
       "email": "",
       "github": "#",
       "facebook": "#",
       "telegram": "#",
-      "twitter": "#",
+      "twitter": "https://twitter.com/masaki_tanabe_",
       "linkedin": "#",
       "instagram": "#",
       "line": "",
