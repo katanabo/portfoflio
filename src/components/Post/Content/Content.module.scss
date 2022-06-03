@@ -21,6 +21,9 @@
   .body {
     figure {
       @include margin-bottom(1);
+p {
+white-space:-wrap;
+}
 
       blockquote {
         font-style: italic;
@@ -31,7 +34,6 @@
         p {
           font-size: $typographic-base-font-size * 1.6817;
           max-width: $layout-post-width;
-          white-space: pre-wrap;
           @include margin-top(0);
           @include margin-bottom(1);
           @include line-height(1.5);
