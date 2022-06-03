@@ -18,7 +18,7 @@ socialImage: "/media/42-line-bible.jpg"
 2022/5/5(木) 19:00-
 Mond Bongo jam session
 @仙台/Mond Bongo Star
-田辺正樹(pf) 岩谷真(bs) 今村陽太郎(dr)
+田辺正樹(pf) 岩谷真(bs) 今村陽太郎(dr)あ
 
 2022/5/7(土)19:00-
 斉藤栞 + 三浦達志トリオ

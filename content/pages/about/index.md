@@ -43,7 +43,6 @@ socialImage: "/notebook.jpg"
 2016/06/09(Thu) @ LIVE DOME STARDUST 19:30 –
 2016/04/21(Thu) @ LIVE DOME STARDUST 19:30 –
 
-
 ## Research Topic
 Surface-Space plasma interaction
 

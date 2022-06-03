@@ -34,9 +34,9 @@
 
     .meta {
       .time {
-        color: $color-base;
+        color: $color-gray;
         font-size: $typographic-small-font-size;
-        font-weight: 600;
+        font-weight: normal;
         text-transform: uppercase;
       }
 
@@ -46,9 +46,9 @@
 
       .category {
         .link {
-          color: $color-secondary;
+          color: $color-gray;
           font-size: $typographic-small-font-size;
-          font-weight: 600;
+          font-weight: normal;
           text-transform: uppercase;
 
           &:hover,
