@@ -19,11 +19,13 @@
   }
 
   .body {
-    figure {
-      @include margin-bottom(1);
+
 p {
 white-space: pre-wrap;
 }
+
+    figure {
+      @include margin-bottom(1);
 
       blockquote {
         font-style: italic;
