@@ -18,9 +18,11 @@
 
   .body {
     font-size: $typographic-base-font-size;
-    white-space: pre-wrap;
     @include line-height(1);
     @include margin(0, 0, 1);
+    p {
+      white-space: pre-wrap;
+    }
   }
 }
 
