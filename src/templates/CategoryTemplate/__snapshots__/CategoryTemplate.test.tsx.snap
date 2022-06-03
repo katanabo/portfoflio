@@ -153,9 +153,9 @@ exports[`CategoryTemplate renders correctly 1`] = `
           <div>
             <div>
               <time
-                dateTime="September 1, 2016"
+                dateTime="9/1/2016"
               >
-                September 2016
+                9/1/2016
               </time>
               <span />
               <span>
@@ -185,9 +185,9 @@ exports[`CategoryTemplate renders correctly 1`] = `
           <div>
             <div>
               <time
-                dateTime="September 1, 2016"
+                dateTime="9/1/2016"
               >
-                September 2016
+                9/1/2016
               </time>
               <span />
               <span>
