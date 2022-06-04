@@ -1,19 +1,18 @@
 ---
 title: 6月のスケジュール
-date: "2022-06-02"
+date: "2022-06-01"
 template: "post"
 draft: false
 slug: "schedule"
 category: "schedule"
 tags:
-  - "Design"
-  - "Typography"
-  - "Web Development"
+  - "jazz"
+  - "schedule"
 description: "6月のスケジュール"
 socialImage: "/media/42-line-bible.jpg"
 ---
 
-## 5月
+## 6月
 
 2022/6/7(火) 18:00-
 尺八×ピアノシェアオフィスライブ

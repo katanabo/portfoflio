@@ -1,14 +1,13 @@
 ---
 title: 5月のスケジュール
-date: "2022-06-02"
+date: "2022-05-01"
 template: "post"
 draft: false
 slug: "schedule"
 category: "schedule"
 tags:
-  - "Design"
-  - "Typography"
-  - "Web Development"
+  - "jazz"
+  - "schedule"
 description: "5月のスケジュール"
 socialImage: "/media/42-line-bible.jpg"
 ---
