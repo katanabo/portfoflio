@@ -43,6 +43,7 @@
 
 @include breakpoint-md {
   .post {
+    lost-column: 2/3;
     .footer {
       @include padding-equal(0);
     }

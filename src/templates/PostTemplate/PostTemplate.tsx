@@ -6,6 +6,7 @@ import { Layout } from "@/components/Layout";
 import { Post } from "@/components/Post";
 import { useSiteMetadata } from "@/hooks";
 import { Node } from "@/types";
+import { Sidebar } from "@/components/Sidebar";
 
 interface Props {
   data: {
@@ -25,6 +26,7 @@ const PostTemplate: React.FC<Props> = ({ data }: Props) => {
       description={metaDescription}
       socialImage={socialImage}
     >
+      <Sidebar />
       <Post post={data.markdownRemark} />
     </Layout>
   );
