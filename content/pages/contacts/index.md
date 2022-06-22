@@ -4,4 +4,5 @@ template: "page"
 socialImage: "/book.jpg"
 ---
 
-https://twitter.com/masaki_tanabe_
+連絡用フォーム
+https://forms.gle/Kbi9snCK9QxJJDXc6
