@@ -9,15 +9,15 @@
   "pathPrefix": "/",
   "menu": [
     {
-      "label": "Schedule",
+      "label": "SCHEDULE",
       "path": "/"
     },
     {
-      "label": "About me",
-      "path": "/pages/about"
+      "label": "BIOGRAPHY",
+      "path": "/pages/biography"
     },
     {
-      "label": "Contact me",
+      "label": "CONTACT",
       "path": "/pages/contacts"
     }
   ],
