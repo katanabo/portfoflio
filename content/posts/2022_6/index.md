@@ -11,9 +11,6 @@ tags:
 description: "6月のスケジュール"
 socialImage: "/media/42-line-bible.jpg"
 ---
-
-## 6月
-
 2022/6/7(火) 18:00-
 尺八×ピアノシェアオフィスライブ
 @Wework 仙台
@@ -21,7 +18,7 @@ socialImage: "/media/42-line-bible.jpg"
 
 2022/6/9(木) 19:00-
 Mond Bongo jam session
-@仙台/Mond Bongo Star
+@仙台/Mond Bongo
 田辺正樹(pf) 岩谷真(bs) 今村陽太郎(dr)
 
 2022/6/14(火)19:30
@@ -31,7 +28,7 @@ Mond Bongo jam session
 
 2022/6/16(木) 19:00-
 Mond Bongo jam session
-@仙台/Mond Bongo Star
+@仙台/Mond Bongo
 田辺正樹(pf) 岩谷真(bs) 今村陽太郎(dr)
 
 2022/6/18(土) 19:00- 
@@ -40,10 +37,10 @@ Mond Bongo jam session
 
 2022/6/23(木) 19:00-
 Mond Bongo jam session
-@仙台/Mond Bongo Star
+@仙台/Mond Bongo
 田辺正樹(pf) 岩谷真(bs) 今村陽太郎(dr)
 
 2022/6/30(木) 19:00-
 Mond Bongo jam session
-@仙台/Mond Bongo Star
+@仙台/Mond Bongo
 田辺正樹(pf) 岩谷真(bs) 今村陽太郎(dr)
