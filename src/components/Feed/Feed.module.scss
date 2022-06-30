@@ -27,6 +27,7 @@
     }
 
     .description {
+      display:none;
       font-size: $typographic-base-font-size;
       @include line-height(1);
       @include margin-bottom(0.75);
@@ -34,6 +35,7 @@
 
     .meta {
       .time {
+
         color: $color-gray;
         font-size: $typographic-small-font-size;
         font-weight: normal;
@@ -47,6 +49,7 @@
       .category {
         .link {
           color: $color-gray;
+          display: none;
           font-size: $typographic-small-font-size;
           font-weight: normal;
           text-transform: uppercase;
@@ -61,6 +64,7 @@
 
     .more {
       color: $color-primary;
+      display: none;
       font-size: $typographic-base-font-size;
 
       &:hover,
