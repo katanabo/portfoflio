@@ -50,6 +50,11 @@ Mond Bongo jam session
 @仙台/Mond Bongo
 田辺正樹(pf) 岩谷真(bs) 今村陽太郎(dr)
 
+### 2022/7/18(月) 13:00-
+Mond Bongo jam session
+@仙台/Mond Bongo
+田辺正樹(pf) 岩谷真(bs) 今村陽太郎(dr)
+
 ### 2022/7/21(木) 19:00-
 Mond Bongo jam session
 @仙台/Mond Bongo
@@ -67,7 +72,7 @@ Mond Bongo jam session
 
 ### 2022/7/29(金) 20:00-
 @仙台/Kabo
-田辺正樹(pf) 岩谷真(bs) kangi(as)
+田辺正樹(pf) 岩谷真(bs) kangi(as) 三浦達志(dr)
 
 ### 2022/7/30(土) 15:00-
 尺八×ピアノDuo 〜ヴァイオリンとのアンサンブル〜
