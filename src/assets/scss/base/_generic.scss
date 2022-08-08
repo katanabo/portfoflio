@@ -96,8 +96,8 @@ hr {
 }
 
 a {
-  color: $typographic-link-p-font-color;
-  text-decoration: none;
+  color: $typographic-base-font-color;
+  text-decoration: underline;
 
   &:hover,
   &:focus,

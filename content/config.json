@@ -2,7 +2,7 @@
   "title": "Masaki Tanabe official site",
   "url": "https://lumen.alxshelepenok.com",
   "subtitle": "jazz piano",
-  "copyright": "©All rights reserved.",
+  "copyright": "Masaki Tanabe©All rights reserved.",
   "googleAnalyticsId": "",
   "disqusShortname": "",
   "postsLimit": 20,
@@ -15,6 +15,10 @@
     {
       "label": "Biography",
       "path": "/pages/biography"
+    },
+    {
+      "label": "Music",
+      "path": "/pages/music"
     },
     {
       "label": "Contact",
