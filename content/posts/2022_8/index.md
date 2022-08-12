@@ -20,6 +20,9 @@ socialImage: "/media/42-line-bible.jpg"
 イベント演奏
 @仙台/メトロポリタンホテル
 
+### 2022/8/12(金) 13:00-
+ソロピアノ演奏
+
 ### 2022/8/18(木) 19:00-
 Mond Bongo jam session
 @仙台/Mond Bongo
