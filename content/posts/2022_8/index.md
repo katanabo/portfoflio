@@ -23,6 +23,9 @@ socialImage: "/media/42-line-bible.jpg"
 ### 2022/8/11(木) 13:00-
 ソロピアノ演奏
 
+### 2022/8/14(日) 13:00-
+ソロピアノ演奏
+
 ### 2022/8/18(木) 19:00-
 Mond Bongo jam session
 @仙台/Mond Bongo
