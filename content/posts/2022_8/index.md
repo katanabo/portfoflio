@@ -36,6 +36,9 @@ Mond Bongo jam session
 @仙台/Route 227's Cafe TOHOKU
 田辺正樹(pf) 平澤真悟(尺八)
 
+### 2022/8/28(日) 20:00-
+@仙台/スターダスト
+
 ### 2022/8/29(月) 20:00-
 @仙台/Kabo
 田辺正樹(pf) 岩谷真(bs) kangi(as) 三浦達志(dr)
