@@ -16,7 +16,8 @@ socialImage: "/media/42-line-bible.jpg"
 ### 2022/11/4(金)
 Mond Bongo jam session
 @仙台/Mond Bongo
-田辺正樹(pf) その他
+鈴木悠平(ds) 廣海大地(ts) 田辺正樹(pf) 岩谷真(bs)
+![20221104](../img/20221104.JPG)
 
 ### 2022/11/5(土) 14:30-
 SHeeks 仙台公演
