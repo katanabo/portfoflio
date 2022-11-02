@@ -56,3 +56,8 @@ SHeeks 仙台公演
 Mond Bongo jam session
 @仙台/Mond Bongo
 田辺正樹(pf) 岩谷真(bs) 今村陽太郎(dr)
+
+### 2022/11/27(日) 19:45-20:25
+ソロピアノ演奏
+@松島一の坊
+田辺正樹(pf)
