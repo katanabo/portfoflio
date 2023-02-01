@@ -15,9 +15,9 @@ template: "page"
 ## 作曲
 
 ### 『Self-similar』
-`https://www.youtube.com/watch?v=JAs4khqEaXw`
+`youtube:https://www.youtube.com/embed/JAs4khqEaXw`
 ### [楽譜](./self-similar.pdf)
 
 ### 『Chatter』
-`https://www.youtube.com/watch?v=OFkrbzgMbBw`
+`youtube:https://www.youtube.com/embed/OFkrbzgMbBw`
 ### [楽譜](./chatter.pdf)
