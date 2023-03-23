@@ -1,6 +1,6 @@
 ---
-title: 12月のスケジュール
-date: "2022-12-01"
+title: 3月のスケジュール
+date: "2023-03-01"
 template: "post"
 draft: false
 slug: "schedule"
@@ -8,7 +8,7 @@ category: "schedule"
 tags:
   - "jazz"
   - "schedule"
-description: "12月のスケジュール"
+description: "3月のスケジュール"
 socialImage: "/media/42-line-bible.jpg"
 ---
 
