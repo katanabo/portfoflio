@@ -35,3 +35,9 @@ Mond Bongo jam session
 AKARI with Friends
 @仙台/KABO
 田辺正樹(pf) 柴田崇斗(bs) 今村陽太郎(dr) 廣海大地(ts) AKARI(vo)
+
+
+### 3月31日（金）19:00- 
+ぷらっと投げ銭ライブ
+@Mondo Bongo
+廣海大地(ts) 石川明(cor) 柴田崇斗(ba) 今村陽太郎(dr) 田辺正樹(Pf)
