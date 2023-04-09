@@ -82,4 +82,3 @@ MC : 3,500円(food & drink)
 廣海大地(Ts) 田辺正樹(Pf) 柴田崇斗(Bs) 
 今村陽太郎(Dr)
 Start : 17:00
-TBD
