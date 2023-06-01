@@ -12,7 +12,7 @@ description: "6月のスケジュール"
 socialImage: "/media/42-line-bible.jpg"
 ---
 
-【リーダーライブ】  
+【リーダーライブ】
 6月1日(月) KABO
 田辺正樹トリオ
 田辺正樹(Pf) 内田龍志(Bs) 笹原瑞季( As)
@@ -60,12 +60,12 @@ start : 12:00
 start : 19:45
 *お泊まりの方限定
 
-【リーダーライブ】  
+【リーダーライブ】
 6月18日(日) LIVEDOME STARDUST
-田辺正樹トリオ with 平澤真悟   
-田辺正樹(Pf), 内田龍志(Bs), 今村陽太郎(Dr)   
-guest 平澤真悟(尺八)   
-open : 18:30 start : 19:00   
+田辺正樹トリオ with 平澤真悟
+田辺正樹(Pf), 内田龍志(Bs), 今村陽太郎(Dr)
+guest 平澤真悟(尺八)
+open : 18:30 start : 19:00
 MC : 3,000円 (学生1,500円) 1ドリンク別
 
 6月19日(月) Tsu-San
