@@ -1,6 +1,6 @@
 ---
-title: 5月のスケジュール
-date: "2023-05-01"
+title: 6月のスケジュール
+date: "2023-06-01"
 template: "post"
 draft: false
 slug: "schedule"
@@ -8,7 +8,7 @@ category: "schedule"
 tags:
   - "jazz"
   - "schedule"
-description: "5月のスケジュール"
+description: "6月のスケジュール"
 socialImage: "/media/42-line-bible.jpg"
 ---
 
